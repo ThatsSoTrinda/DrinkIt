@@ -9,7 +9,7 @@ This addon creates two macros, "AutoHP" and "AutoMP". These macros are dynamical
 
 
 **How does it work?**  
-Other addons are based on lists. Either created by the user or mostly obsolete by the developer. This addon does not need hard coded lists. It reads the necessary data from the WoW API. This ensures a long run even without expensive maintenance. And the best part is. It works in both Classic and Retail.
+Other addons are based on lists. Either created by the user or mostly obsolete by the developer. This addon does not need hard coded lists. It reads the necessary data from the WoW API. This ensures a long run even without expensive maintenance. And the best part is. It works in Classic Era, Burning Crusade Classic, and Shadowlands.
 
 
 **Are there still open problems?**  
