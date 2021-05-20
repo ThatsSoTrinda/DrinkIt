@@ -1,8 +1,10 @@
-## Interface: 80205
-
-## Title: DrinkIt
+## Interface: 90005
+## Interface-Retail: 90005
+## Interface-Classic: 11306
+## Interface-BCC: 20501
+## Title: DrinkIt - Trinda's Fork
 ## Notes: Food/water macro generator
-## Author: nObbY530
+## Author: Maintained by Trinda, Originally made by nObbY530
 ## Version: @project-version@
 
 Libraries\LibStub\LibStub.lua
