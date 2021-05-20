@@ -1,5 +1,8 @@
-Addon:      DrinkIt
-Author:     nObbY530
+Addon:      DrinkIt - Trinda's Fork
+Author:     Maintained by Trinda, Originally made by nObbY530
+
+Version 1.09
+ - Project forked
 
 Version 1.08
  - minor fixes
