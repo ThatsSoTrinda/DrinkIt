@@ -1,6 +1,10 @@
 Addon:      DrinkIt - Trinda's Fork
 Author:     Maintained by Trinda, Originally made by nObbY530
 
+Version 1.10
+ - Fixed TOC for CE
+ - No longer listed as Alpha for CE/BCC
+
 Version 1.091
  - Testing GitHub Actions
 
